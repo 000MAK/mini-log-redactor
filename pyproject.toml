@@ -1,0 +1,9 @@
+[project]
+name = "mini-log-redactor"
+version = "0.1.0"
+description = "Redacts common Bearer tokens and API-key-like assignments before sharing diagnostic logs."
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.ruff]
+line-length = 100
